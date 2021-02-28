@@ -10,7 +10,7 @@ class App extends Component {
        <div className="app-label">Shusher App</div>
         <div>
 
-          <audio ref="audio_tag" src={shusherOgg} controls loop />
+          <audio src={shusherOgg} controls loop />
 
         </div>
       </div>

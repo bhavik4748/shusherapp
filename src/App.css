@@ -2,11 +2,13 @@
   text-align: center;
   background-color: black;
   height: 100vh;
+  border-radius: 25px;
+  border: 2px solid white;
 }
 
 .app-label{
   color:white;
-  height: 20vh;
+  padding-top: 15vh;
+  height: 10vh;
   font-size: 24px;
-
 }
